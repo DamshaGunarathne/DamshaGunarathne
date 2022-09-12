@@ -112,8 +112,7 @@
  ### 👉 Competitive Programming & Problem Solving
  
 <p align="center">
-  &emsp;
-   
+ 
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
   &emsp;
 </p>
@@ -121,7 +120,7 @@
  ### 👉 Operating Systems
  
 <p align="center">
-  &emsp;
+ 
    
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
